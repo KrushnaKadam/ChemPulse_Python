@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+ 
 import uvicorn,fastapi
 from fastapi import FastAPI
 import pandas as pd
